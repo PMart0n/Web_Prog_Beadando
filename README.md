@@ -1,5 +1,6 @@
 # Web_Prog_Beadando
 
+Film és sorozat ajánló weboldal
 
 Cél és felhasználói igények
 
