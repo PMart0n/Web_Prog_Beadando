@@ -15,3 +15,6 @@ Funkciók
 - Film oldal, ahol a felhasználók megtekinthetik a film adatait (pl. cím, időtartam, szereplők stb.), értékelhetik a filmet és hozzászólást írhatnak.
 - Felhasználói profil oldal, ahol a felhasználók láthatják a kedvenc filmjeiket és sorozataikat.
 
+csapattagok: 
+- Pataki Márton Q9HLSR
+- 
