@@ -17,4 +17,4 @@ Funkciók
 
 csapattagok: 
 - Pataki Márton Q9HLSR
-- 
+- Lénárd Gábor UMFFVL
